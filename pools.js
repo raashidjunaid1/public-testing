@@ -1,5 +1,5 @@
 
-export const orca_pools = [
+const orca_pools = [
   {
       name: 'WSOL-USDC',
       coin: { ...TOKENS.WSOL },
