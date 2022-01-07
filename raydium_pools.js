@@ -3,7 +3,6 @@
       name: 'WSOL-USDC',
       coin: { ...TOKENS.WSOL },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['SOL-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -32,7 +31,6 @@
       name: 'IVN-USDC',
       coin: { ...TOKENS.IVN },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['IVN-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
   
@@ -60,7 +58,6 @@
       name: 'AURY-USDC',
       coin: { ...TOKENS.AURY },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['AURY-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
       ammId: 'Ek8uoHjADzbNk2yr2HysybwFk1h2j9XXDsWAjAJN38n1',
@@ -87,7 +84,6 @@
       name: 'YFI-USDC',
       coin: { ...TOKENS.YFI },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['YFI-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -116,7 +112,6 @@
       name: 'SRM-USDC',
       coin: { ...TOKENS.SRM },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['SRM-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -145,7 +140,6 @@
       name: 'FTT-USDC',
       coin: { ...TOKENS.FTT },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['FTT-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -174,7 +168,6 @@
       name: 'BTC-USDC',
       coin: { ...TOKENS.BTC },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['BTC-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -203,7 +196,6 @@
       name: 'SUSHI-USDC',
       coin: { ...TOKENS.SUSHI },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['SUSHI-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -232,7 +224,6 @@
       name: 'TOMO-USDC',
       coin: { ...TOKENS.TOMO },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['TOMO-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -261,7 +252,6 @@
       name: 'LINK-USDC',
       coin: { ...TOKENS.LINK },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['LINK-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -290,7 +280,6 @@
       name: 'ETH-USDC',
       coin: { ...TOKENS.ETH },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['ETH-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -319,7 +308,6 @@
       name: 'xCOPE-USDC',
       coin: { ...TOKENS.xCOPE },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['xCOPE-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -348,7 +336,6 @@
       name: 'STEP-USDC',
       coin: { ...TOKENS.STEP },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['STEP-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -377,7 +364,6 @@
       name: 'MEDIA-USDC',
       coin: { ...TOKENS.MEDIA },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['MEDIA-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -406,7 +392,6 @@
       name: 'ROPE-USDC',
       coin: { ...TOKENS.ROPE },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['ROPE-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -435,7 +420,6 @@
       name: 'MER-USDC',
       coin: { ...TOKENS.MER },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['MER-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -464,7 +448,6 @@
       name: 'COPE-USDC',
       coin: { ...TOKENS.COPE },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['COPE-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -493,7 +476,6 @@
       name: 'ALEPH-USDC',
       coin: { ...TOKENS.ALEPH },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['ALEPH-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -522,7 +504,6 @@
       name: 'TULIP-USDC',
       coin: { ...TOKENS.TULIP },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['TULIP-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -551,7 +532,6 @@
       name: 'WOO-USDC',
       coin: { ...TOKENS.WOO },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['WOO-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -580,7 +560,6 @@
       name: 'SNY-USDC',
       coin: { ...TOKENS.SNY },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['SNY-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -609,7 +588,6 @@
       name: 'SLRS-USDC',
       coin: { ...TOKENS.SLRS },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['SLRS-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -638,7 +616,6 @@
       name: 'renBTC-USDC',
       coin: { ...TOKENS.renBTC },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['renBTC-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -667,7 +644,6 @@
       name: 'renDOGE-USDC',
       coin: { ...TOKENS.renDOGE },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['renDOGE-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -696,7 +672,6 @@
       name: 'RAY-USDC',
       coin: { ...TOKENS.RAY },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['RAY-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -725,7 +700,6 @@
       name: 'DXL-USDC',
       coin: { ...TOKENS.DXL },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['DXL-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -754,7 +728,6 @@
       name: 'LIKE-USDC',
       coin: { ...TOKENS.LIKE },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['LIKE-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -784,7 +757,6 @@
       name: 'PORT-USDC',
       coin: { ...TOKENS.PORT },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['PORT-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -813,7 +785,6 @@
       name: 'MNGO-USDC',
       coin: { ...TOKENS.MNGO },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['MNGO-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -842,7 +813,6 @@
       name: 'ATLAS-USDC',
       coin: { ...TOKENS.ATLAS },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['ATLAS-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -871,7 +841,6 @@
       name: 'POLIS-USDC',
       coin: { ...TOKENS.POLIS },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['POLIS-USDC-V4'] },
   
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
@@ -900,7 +869,6 @@
       name: 'stSOL-USDC',
       coin: { ...TOKENS.stSOL },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['stSOL-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
   
@@ -928,7 +896,6 @@
       name: 'GRAPE-USDC',
       coin: { ...TOKENS.GRAPE },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['GRAPE-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
   
@@ -956,7 +923,6 @@
       name: 'CRP-USDC',
       coin: { ...TOKENS.CRP },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['CRP-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
   
@@ -984,7 +950,6 @@
       name: 'SLND-USDC',
       coin: { ...TOKENS.SLND },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['SLND-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
       ammId: 'GRM4jGMtx64sEocBFz6ZgdogF2fyTWiixht8thZoHjkK',
@@ -1011,7 +976,6 @@
       name: 'FAB-USDC',
       coin: { ...TOKENS.FAB },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['FAB-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
       ammId: '7eM9KWYiJmNfDfeztMoEZE1KPyWD54LRxM9GmRY9ske6',
@@ -1038,7 +1002,6 @@
       name: 'IN-USDC',
       coin: { ...TOKENS.IN },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['IN-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
       ammId: '5DECiJuqwmeCptoBEpyJtXKrVfiUrG9nBbBGkxGkPYyF',
@@ -1065,7 +1028,6 @@
       name: 'DFL-USDC',
       coin: { ...TOKENS.DFL },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['DFL-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
       ammId: '8GJdzPuEBPP3BHJpcspBcfpRZV4moZMFwhTAuXebaPL8',
@@ -1092,7 +1054,6 @@
       name: 'SONAR-USDC',
       coin: { ...TOKENS.SONAR },
       pc: { ...TOKENS.USDC },
-      lp: { ...LP_TOKENS['SONAR-USDC-V4'] },
       version: 4,
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
       ammId: 'CrWbfKwyAaUfYctXWF9iaDUP4AH5t6k6bbaWnXBL8nHm',
