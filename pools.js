@@ -1,5 +1,5 @@
 
-const orca_pools = [
+[
   {
       name: 'WSOL-USDC',
       coin: { ...TOKENS.WSOL },
