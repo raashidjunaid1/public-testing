@@ -255,4 +255,4 @@
     poolCoinTokenAccount: '6Y9VyEYHgxVahiixzphNh4HAywpab9zVoD4S8q1sfuL8',
     poolPcTokenAccount: '9SxzphwrrDVDkwkyvmtag9NLgpjSkTw35cRwg9rLMYWk',
   },
-];
+]
