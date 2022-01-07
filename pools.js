@@ -4,7 +4,6 @@ const orca_pools = [
       name: 'WSOL-USDC',
       coin: { ...TOKENS.WSOL },
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -20,7 +19,6 @@ const orca_pools = [
     name: 'SHDW-USDC',
     coin: { ...TOKENS.SHDW },
     pc: { ...TOKENS.USDC },
-    // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
 
     version: 4,
     programId: ORCA_SWAP_PROGRAM_ID,
@@ -36,7 +34,6 @@ const orca_pools = [
     name: 'IVN-WSOL',
       coin: { ...TOKENS.IVN },
       pc: { ...TOKENS.WSOL },
-      // lp: { ...LP_TOKENS[‘IVN’-WSOL-ORCA] },
 
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -52,7 +49,6 @@ const orca_pools = [
     name: 'LIQ-USDC',
       coin: { ...TOKENS.LIQ },
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -68,7 +64,6 @@ const orca_pools = [
     name: 'ORCA-USDC',
       coin: { ...TOKENS.ORCA },
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -84,7 +79,6 @@ const orca_pools = [
     name: 'ETH-USDC',
       coin: { ...TOKENS.ETH },
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -100,7 +94,6 @@ const orca_pools = [
     name: 'ATLAS-USDC',
       coin: { ...TOKENS.ATLAS},
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -116,7 +109,6 @@ const orca_pools = [
     name: 'POLIS-USDC',
       coin: { ...TOKENS.POLIS},
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -132,7 +124,6 @@ const orca_pools = [
     name: 'ABR-USDC',
       coin: { ...TOKENS.ABR},
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -148,7 +139,6 @@ const orca_pools = [
     name: 'SBR-USDC',
       coin: { ...TOKENS.SBR},
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -164,7 +154,6 @@ const orca_pools = [
     name: 'SUNNY-USDC',
       coin: { ...TOKENS.SUNNY},
       pc: { ...TOKENS.USDC },
-      // lp: { ...LP_TOKENS['WSOL-USDC-ORCA'] },
   
       version: 4,
       programId: ORCA_SWAP_PROGRAM_ID,
@@ -255,7 +244,6 @@ const orca_pools = [
     name: 'NINJA-WSOL',
     coin: { ...TOKENS.NINJA },
     pc: { ...TOKENS.WSOL },
-    // lp: { ...LP_TOKENS[‘IVN’-WSOL-ORCA] },
 
     version: 4,
     programId: ORCA_SWAP_PROGRAM_ID,
