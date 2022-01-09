@@ -451,6 +451,7 @@
     }
   },
   {
+    "id":"genesysgo-shadow",
     "symbol": "shdw",
     "name": "Shadow",
     "image": "https://www.orca.so/static/media/shdw.298c8fb2.png",
