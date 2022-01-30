@@ -1085,7 +1085,7 @@
       ammId: 'GTg2JHaaTyz7DXknwCNVPSMPLognrqXUm6uoHA3j1JRb',
       ammAuthority: '5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1',
       ammOpenOrders: '3atg3g6TkshhS9fsnBf9hArsHCYyUQG9fdPLC5SNzgEW',
-      ammTargetOrders: '4MchsSuWUvVLWQGFsFxjEDY6vM8FhHBpkVEuYPdC8qq5',
+      ammTargetOrders: 'CJ6X2FuFbDbADzZuAiTbtRsfh8j7EZzcFnMXEndnceqS',
       // no need
       ammQuantities: NATIVE_SOL.mintAddress,
       poolCoinTokenAccount: 'BA6pvLDkEipsxWTQTFTL76Npozy8KGmPwWBzQ4hyPxrx',
@@ -1138,8 +1138,8 @@
       programId: LIQUIDITY_POOL_PROGRAM_ID_V4,
       ammId: '6tmFJbMk5yVHFcFy7X2K8RwHjKLr6KVFLYXpgpBNeAxB',
       ammAuthority: '5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1',
-      ammOpenOrders: 'BnGTcze1GXtCMkFPceWfUC4HPRXjJo5dGb2bmevHfgL3',
-      ammTargetOrders: '2h5kDQddqUTUaAjFv3FHNMtvVVCYo1PY6BxkxtkhVzkH',
+      ammOpenOrders: '7AP5KPxkc9TYtYvqyXc4RK9GRVutGSne8Pj4ryKJoY4Z',
+      ammTargetOrders: 'DfEhXNWDjsDNz1bqz6GinQU8RepjFneosamAM2XZ3heT',
       // no need
       ammQuantities: NATIVE_SOL.mintAddress,
       poolCoinTokenAccount: '3Dtb2kDA3pJkUrULXmQa8qn1RkmgnEM4eo2nf6Uuq3K3',
