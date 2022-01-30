@@ -466,28 +466,28 @@
     "name": "Atlas DEX",
     "image": "https://assets.coingecko.com/coins/images/23002/small/logo.png",
     "strokeColor": {
-      "from": "#fcd763",
-      "to": "#1a284c"
+      "from": "#d67a54",
+      "to": "#4542ba"
     }
   },
   {
     "id": "prism",
-    "symbol": "ats",
-    "name": "Atlas DEX",
-    "image": "https://assets.coingecko.com/coins/images/23002/small/logo.png",
+    "symbol": "prism",
+    "name": "Prism",
+    "image": "https://assets.coingecko.com/coins/images/21475/large/7KzeGb1.png?1639350211",
     "strokeColor": {
-      "from": "#fcd763",
-      "to": "#1a284c"
+      "from": "#dc9991",
+      "to": "#5ee8de"
     }
   },
   {
     "id": "uxd-protocol-token",
     "symbol": "uxp",
     "name": "UXD Protocol Token",
-    "image": "https://assets.coingecko.com/coins/images/20319/small/UXP.jpg",
+    "image": "https://assets.coingecko.com/coins/images/20319/large/UXP.jpg?1636864568",
     "strokeColor": {
-      "from": "#fcd763",
-      "to": "#1a284c"
+      "from": "#939393",
+      "to": "#494949"
     }
   }
 ]
